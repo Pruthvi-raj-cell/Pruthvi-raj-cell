@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI! there<br>A student how wants to learn how open source works,<br>so here i'm trying out.
+HI! there<br>A student who wants to learn how open source works,<br>so here i'm trying out.
 
 
 ## 🌐 Socials:
