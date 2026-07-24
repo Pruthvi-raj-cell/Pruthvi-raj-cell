@@ -18,7 +18,7 @@
 
 ## 📫 Connect with Me
 
-* LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-* LeetCode: https://leetcode.com/YOUR_USERNAME
+* LinkedIn: [https://linkedin.com/in/YOUR_USERNAME](https://www.linkedin.com/in/pruthviraj-madavi-851906320/)
+* LeetCode: [https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/Pruthvileet/)
 
 > *"Learning something new every day."*
