@@ -8,7 +8,7 @@
 * Java & Spring Boot
 * Python
 * Data Structures & Algorithms
-* Machine Learning
+
 
 ## 🛠️ Tech Stack
 
