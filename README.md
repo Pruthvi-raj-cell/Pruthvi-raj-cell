@@ -1,24 +1,5 @@
-# Hi, I'm Pruthvi 👋
-
-🎓 Computer Science Engineering Student
-💻 Passionate about Backend Development, AI, and Problem Solving
-
-## 🚀 Currently Learning
-
-* Java & Spring Boot
-* Python
-* Data Structures & Algorithms
-
-
-## 🛠️ Tech Stack
-
-**Languages:** Java, Python, JavaScript, SQL
-**Frameworks:** Spring Boot, React, Node.js
-**Tools:** Git, GitHub, PostgreSQL, VS Code, IntelliJ IDEA, PyCharm
-
-## 📫 Connect with Me
-
-* LinkedIn: https://www.linkedin.com/in/pruthviraj-madavi-851906320/
-* LeetCode: https://leetcode.com/u/Pruthvileet/
-
-> *"Learning something new every day."*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pruthvi-raj-cell/pruthvi-raj-cell/gitascii/profiles/default/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pruthvi-raj-cell/pruthvi-raj-cell/gitascii/profiles/default/light.svg">
+  <img alt="GitAscii Profile" src="https://raw.githubusercontent.com/pruthvi-raj-cell/pruthvi-raj-cell/gitascii/profiles/default/dark.svg" width="100%">
+</picture>
